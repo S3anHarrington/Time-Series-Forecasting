@@ -7,11 +7,17 @@ This analysis involves data cleaning, visualizations and future financial foreca
 Python 3.7 and above and has been constructed in the jupyter lab notebook named forecasting_net_prophet.ipynb The following libraries are required:
 
 pandas - for analyzing data
+
 fbprophet - for building Time Series models
+
 jupyter - for an IDE
+
 hvplot - for creating interactive Visualizations of data
+
 datetime - for visualizing data
+
 holoviews - for creating interactive plots
+
 pathlib - for creating object oriented file modules
 
 # Installation Guide
