@@ -44,7 +44,8 @@ Some snapshots of the inertia plots and cluster plots of Original data vs PCA da
 ![Weekly Trends](https://user-images.githubusercontent.com/91238235/163741645-a6fff290-ff59-45e6-904d-5d755db39e26.png)
 
 # Contributors
-Sean Harrington
+
+Sean Harrington: www.linkedin.com/in/sean-harrington16
 
 # License
 
